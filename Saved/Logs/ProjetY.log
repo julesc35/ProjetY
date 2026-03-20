@@ -1199,3 +1199,76 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.20-13.39.22:009][265]LogEditorActor: Deleted Actor: Brush
 [2026.03.20-13.39.22:027][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2026.03.20-13.39.22:060][265]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2026.03.20-13.41.04:525][660]LogDerivedDataCache: C:/Users/Lil_Jul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.20-13.41.55:207][574]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.20-13.41.55:279][575]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.20-13.41.55:442][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.20-13.41.55:605][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.03.20-13.41.57:600][715]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.03.20-13.41.57:601][715]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.03.20-13.41.57:601][715]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.SkeletalMeshActor_0
+[2026.03.20-13.41.57:603][715]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.SkeletalMeshActor_0
+[2026.03.20-13.41.58:895][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.20-13.41.58:898][827]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.03.20-13.41.58:904][827]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.03.20-13.41.58:905][827]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.03.20-13.41.58:909][827]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.SkeletalMeshActor_UAID_0C9D92BCFCD7B3C902_1845209255
+[2026.03.20-13.41.58:911][827]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Lvl_TopDown.Lvl_TopDown:PersistentLevel.SkeletalMeshActor_UAID_0C9D92BCFCD7B3C902_1845209255
+[2026.03.20-13.42.08:905][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.20-13.42.08:995][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.20-13.42.09:007][143]LogSavePackage: Moving output files for package: /Game/TopDown/Lvl_TopDown
+[2026.03.20-13.42.09:009][143]LogSavePackage: Moving '../../../../../../Users/Lil_Jul/Documents/Unreal Projects/ProjetY/ProjetY/Saved/Lvl_TopDown003F837F464279F8EAE23B82FFB3751A.tmp' to '../../../../../../Users/Lil_Jul/Documents/Unreal Projects/ProjetY/ProjetY/Content/TopDown/Lvl_TopDown.umap'
+[2026.03.20-13.42.09:025][143]LogFileHelpers: Saving map 'Lvl_TopDown' took 0.076
+[2026.03.20-13.42.09:034][143]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/7/OT/WKB539V3KEYF9CZQ2AKHKP
+[2026.03.20-13.42.09:035][143]LogSavePackage: Moving '../../../../../../Users/Lil_Jul/Documents/Unreal Projects/ProjetY/ProjetY/Saved/WKB539V3KEYF9CZQ2AKHKP9CC3B3884227A6162C1238A97DAA4DE0.tmp' to '../../../../../../Users/Lil_Jul/Documents/Unreal Projects/ProjetY/ProjetY/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/OT/WKB539V3KEYF9CZQ2AKHKP.uasset'
+[2026.03.20-13.42.09:055][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.797 ms
+[2026.03.20-13.42.09:093][143]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.20-13.42.09:093][143]LogContentValidation: Enabled validators:
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.20-13.42.09:093][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.20-13.42.09:094][143]AssetCheck: /Game/TopDown/Lvl_TopDown Validation de la ressource
+[2026.03.20-13.42.09:132][143]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Lil_Jul/Documents/Unreal Projects/ProjetY/ProjetY/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: ================================================
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Total job queries 424, among them cache hits 22 (5.19%), DDC hits 332 (78.30%), Duplicates 69 (16.27%)
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 240 distinct outputs (72.07%)
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: RAM used: 3,29 MiB of 1,60 GiB budget. Usage: 0.20%
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2026.03.20-13.42.16:720][360]LogShaderCompilers: Display: Job execution time: average 3.04 s, max 3.04 s
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Job life time (pending + execution): average 3.15 s, max 3.15
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Shader code size: total 13,957 KiB, numShaders 1, average 13,957 KiB, min 13,957 KiB, max 13,957 KiB
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.15 s
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Average processing rate: 0.32 jobs/sec
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Total thread time: 2,53 s
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Total thread preprocess time: 5,693 s
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Percentage time preprocessing: 225.06%
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 2 - 0.402149
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 100.00% of total time (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: === Material stats ===
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Materials Translated:    142
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Material Translation Only: 0.04 s (47%)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: Material Cache Hits: 39 (27%)
+[2026.03.20-13.42.16:721][360]LogShaderCompilers: Display: ================================================
